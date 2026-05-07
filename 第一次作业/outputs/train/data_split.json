@@ -1,0 +1,6108 @@
+{
+  "train": [
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\246.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\239.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\247.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\220.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\240.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\215.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\214.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\209.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\213.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\204.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\238.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\205.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\226.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\221.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\247.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\204.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\226.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\206.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\207.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\216.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\202.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\236.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\209.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\226.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\225.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\205.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\238.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\249.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\239.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\236.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\215.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\231.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\231.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\211.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\204.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\236.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\208.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\203.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\240.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\228.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\249.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\202.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\207.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\239.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\207.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\224.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\244.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\205.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\不可能绝对不可能_爱给网_aigei_com.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\231.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\230.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\222.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\219.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\232.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\229.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\218.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\220.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\212.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\235.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\223.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\236.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\212.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\202.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\216.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\247.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\209.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\人要是倒霉 放屁都砸脚后跟_爱给网_aigei_com.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\201.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\【男童音】开心-太棒了_爱给网_aigei_com.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\242.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\246.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\219.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\225.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\213.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\220.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\246.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\201.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\232.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\226.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\208.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\237.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\211.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\232.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\210.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\201.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\202.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\236.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\218.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\225.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\233.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\205.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\230.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\227.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\248.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\228.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\218.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\216.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\209.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\219.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\212.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\242.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\234.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\214.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\246.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\209.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\204.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\237.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\206.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\203.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\236.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\243.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\237.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\212.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\246.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\208.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\244.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\211.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\246.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\246.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\208.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\230.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\215.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\222.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\223.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\234.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\223.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\205.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\201.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\212.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\236.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\222.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\201.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\246.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\213.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\209.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\212.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\241.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\246.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\224.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\208.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\234.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\245.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\231.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\226.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\242.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\217.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\226.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\240.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\223.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\250.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\231.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\201.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\241.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\238.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\244.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\234.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\237.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\212.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\212.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\236.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\223.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\246.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\217.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\229.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\240.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\238.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\231.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\229.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\244.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\233.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\203.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\211.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\220.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\243.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\221.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\220.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\247.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\210.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\205.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\201.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\247.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\222.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\236.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\228.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\235.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\202.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\218.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\217.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\224.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\211.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\234.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\226.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\220.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\223.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\234.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\233.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\243.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\206.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\246.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\230.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\233.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\218.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\233.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\232.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\238.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\230.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\244.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\206.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\205.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\214.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\233.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\元首的愤怒_爱给网_aigei_com.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\229.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\214.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\201.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\人要是倒霉 放屁都砸脚后跟_爱给网_aigei_com.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\201.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\208.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\221.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\209.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\233.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\237.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\210.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\208.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\206.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\212.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\220.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\245.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\213.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\237.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\222.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\213.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\244.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\206.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\221.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\226.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\207.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\241.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\203.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\227.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\218.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\238.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\201.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\230.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\237.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\245.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\201.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\206.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\242.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\207.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\216.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\227.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\211.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\227.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\214.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\240.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\239.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\237.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\216.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\224.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\211.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\243.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\227.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\218.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\244.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\230.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\248.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\229.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\205.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\250.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\245.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\249.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\236.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\204.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\216.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\243.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\244.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\惊讶英文.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\224.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\202.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\250.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\201.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\244.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\227.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\221.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\247.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\217.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\243.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\223.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\241.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\217.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\249.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\240.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\227.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\209.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\210.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\249.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\209.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\219.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\240.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\230.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\225.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\235.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\226.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\225.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\238.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\219.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\236.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\204.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\205.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\224.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\242.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\240.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\246.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\230.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\229.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\248.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\224.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\243.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\250.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\205.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\225.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\207.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\207.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\211.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\243.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\210.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\221.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\213.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\246.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\208.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\218.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\215.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\213.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\233.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\244.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\228.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\202.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\249.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\210.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\210.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\215.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\239.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\204.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\207.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\244.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\226.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\212.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\236.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\234.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\240.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\229.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\230.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\217.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\219.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\247.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\248.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\238.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\224.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\218.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\231.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\229.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\242.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\241.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\237.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\207.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\222.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\234.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\238.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\232.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\237.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\248.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\216.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\219.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\249.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\205.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\232.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\232.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\219.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\214.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\235.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\246.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\221.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\238.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\212.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\243.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\237.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\247.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\215.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\208.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\202.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\213.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\248.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\220.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\205.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\243.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\216.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\231.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\218.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\236.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\230.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\249.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\233.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\234.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\237.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\205.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\248.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\225.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\238.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\202.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\237.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\210.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\元首的愤怒_爱给网_aigei_com.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\233.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\205.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\221.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\201.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\217.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\224.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\236.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\203.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\238.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\229.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\222.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\209.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\239.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\245.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\235.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\209.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\244.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\203.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\234.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\224.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\217.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\204.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\218.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\244.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\250.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\250.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\235.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\213.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\230.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\247.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\217.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\219.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\229.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\219.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\231.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\228.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\212.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\245.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\211.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\206.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\231.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\惊讶英文.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\224.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\203.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\215.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\211.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\245.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\245.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\213.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\224.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\232.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\222.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\211.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\216.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\241.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\245.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\243.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\240.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\214.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\233.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\224.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\234.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\233.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\220.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\227.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\247.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\235.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\239.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\206.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\元首的愤怒_爱给网_aigei_com.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\232.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\248.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\210.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\235.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\237.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\211.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\217.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\250.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\249.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\234.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\203.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\246.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\233.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\223.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\204.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\239.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\233.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\229.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\209.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\228.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\241.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\205.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\231.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\242.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\245.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\232.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\244.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\233.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\225.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\元首的愤怒_爱给网_aigei_com.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\204.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\235.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\239.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\225.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\204.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\220.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\207.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\202.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\222.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\202.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\237.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\221.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\237.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\221.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\214.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\214.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\250.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\239.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\247.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\222.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\217.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\245.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\211.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\232.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\220.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\246.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\234.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\248.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\208.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\218.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\202.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\249.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\206.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\227.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\230.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\241.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\234.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\250.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\222.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\213.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\239.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\220.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\228.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\245.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\250.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\229.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\228.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\215.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\227.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\221.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\232.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\245.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\211.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\惊讶英文.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\214.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\230.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\243.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\234.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\237.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\210.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\218.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\227.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\215.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\249.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\240.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\222.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\202.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\【男童音】开心-太棒了_爱给网_aigei_com.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\239.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\231.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\223.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\232.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\217.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\216.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\235.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\209.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\228.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\229.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\207.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\243.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\245.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\222.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\230.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\242.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\245.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\229.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\228.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\247.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\222.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\229.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\249.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\209.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\226.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\213.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\232.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\213.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\219.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\203.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\225.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\216.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\204.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\215.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\243.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\236.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\216.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\242.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\230.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\245.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\213.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\215.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\223.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\226.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\不可能绝对不可能_爱给网_aigei_com.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\249.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\232.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\249.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\237.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\223.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\227.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\247.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\232.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\247.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\213.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\208.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\249.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\223.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\206.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\225.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\247.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\249.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\206.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\215.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\217.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\203.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\205.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\228.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\250.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\204.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\219.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\204.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\204.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\208.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\244.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\226.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\222.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\218.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\204.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\207.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\201.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\243.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\203.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\233.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\219.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\237.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\225.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\215.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\248.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\249.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\212.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\221.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\219.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\221.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\人要是倒霉 放屁都砸脚后跟_爱给网_aigei_com.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\214.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\232.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\243.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\224.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\225.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\250.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\228.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\210.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\224.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\203.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\240.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\229.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\202.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\238.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\219.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\203.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\235.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\243.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\214.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\238.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\217.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\247.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\231.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\230.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\230.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\231.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\238.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\229.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\242.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\214.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\【男童音】开心-太棒了_爱给网_aigei_com.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\228.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\242.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\242.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\205.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\212.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\226.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\223.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\214.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\214.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\247.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\211.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\226.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\225.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\210.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\225.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\220.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\248.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\221.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\221.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\249.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\250.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\223.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\220.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\213.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\206.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\248.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\210.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\236.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\215.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\209.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\217.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\220.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\228.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\250.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\247.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\226.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\211.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\210.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\226.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\206.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\221.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\244.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\201.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\226.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\244.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\235.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\213.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\201.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\235.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\202.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\248.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\206.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\227.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\233.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\220.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\227.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\246.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\212.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\244.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\202.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\218.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\237.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\248.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\216.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\224.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\245.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\220.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\228.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\201.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\230.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\246.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\208.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\231.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\231.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\247.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\217.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\216.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\221.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\217.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\229.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\210.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\213.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\225.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\214.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\240.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\246.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\228.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\203.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\211.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\212.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\222.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\206.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\243.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\242.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\247.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\218.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\231.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\241.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\208.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\213.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\225.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\241.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\216.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\233.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\219.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\229.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\245.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\235.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\227.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\221.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\241.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\223.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\202.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\214.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\228.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\206.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\248.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\229.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\227.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\216.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\250.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\236.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\222.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\245.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\209.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\207.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\人要是倒霉 放屁都砸脚后跟_爱给网_aigei_com.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\213.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\226.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\223.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\204.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\208.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\242.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\227.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\239.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\216.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\233.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\201.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\223.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\203.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\218.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\248.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\235.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\215.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\239.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\245.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\206.wav",
+      "label": "surprise",
+      "label_id": 5
+    }
+  ],
+  "val": [
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\217.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\228.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\241.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\219.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\202.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\242.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\204.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\242.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\241.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\247.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\231.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\206.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\212.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\223.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\249.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\210.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\225.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\228.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\240.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\219.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\244.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\229.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\239.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\219.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\206.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\236.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\220.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\204.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\244.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\220.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\242.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\207.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\232.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\235.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\250.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\208.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\210.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\215.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\240.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\209.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\240.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\246.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\238.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\212.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\215.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\214.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\215.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\224.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\228.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\231.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\223.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\218.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\202.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\250.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\221.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\211.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\234.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\248.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\223.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\228.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\230.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\249.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\227.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\240.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\211.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\207.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\219.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\250.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\惊讶英文.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\226.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\250.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\235.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\241.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\232.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\210.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\216.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\226.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\202.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\250.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\244.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\234.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\215.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\222.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\208.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\236.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\221.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\221.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\225.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\234.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\240.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\206.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\238.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\205.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\207.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\203.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\207.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\204.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\217.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\210.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\210.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\227.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\235.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\235.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\232.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\207.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\241.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\248.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\240.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\241.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\224.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\248.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\242.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\240.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\206.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\231.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\244.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\212.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\202.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\247.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\215.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\240.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\239.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\213.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\241.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\249.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\208.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\235.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\211.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\237.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\222.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\218.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\220.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\243.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\205.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\243.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\206.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\250.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\215.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\219.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\201.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\201.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\224.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\239.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\246.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\218.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\234.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\212.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\246.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\207.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\245.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\227.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\209.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\209.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\233.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\216.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\214.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\203.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\201.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\250.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\245.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\248.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\207.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\238.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\204.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\226.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\236.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\219.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\218.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\233.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\203.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\241.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\238.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\208.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\223.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\247.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\231.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\235.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\208.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\212.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\246.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\216.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\237.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\238.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\231.wav",
+      "label": "surprise",
+      "label_id": 5
+    }
+  ],
+  "test": [
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\233.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\204.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\242.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\232.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\249.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\208.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\208.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\217.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\241.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\237.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\214.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\224.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\229.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\224.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\234.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\227.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\206.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\205.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\241.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\236.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\207.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\241.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\225.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\230.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\215.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\225.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\242.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\248.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\224.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\249.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\205.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\238.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\222.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\222.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\203.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\228.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\239.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\210.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\205.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\209.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\203.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\不可能绝对不可能_爱给网_aigei_com.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\236.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\229.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\223.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\247.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\229.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\213.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\237.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\242.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\249.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\210.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\243.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\231.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\202.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\212.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\238.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\218.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\239.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\221.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\217.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\220.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\244.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\234.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\217.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\215.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\216.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\不可能绝对不可能_爱给网_aigei_com.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\207.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\234.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\242.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\221.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\211.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\209.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\208.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\227.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\216.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\216.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\202.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\235.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\243.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\203.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\222.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\210.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\242.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\243.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\233.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\222.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\220.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\215.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\250.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\201.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\241.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\238.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\226.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\212.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\250.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\234.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\217.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\218.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\214.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\235.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\240.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\246.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\208.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\220.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\248.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\240.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\fear\\207.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\227.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\238.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\205.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\210.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\239.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\216.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\214.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\209.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\236.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\212.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\202.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\226.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\angry\\203.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\209.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\230.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\203.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\happy\\248.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\233.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\234.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\214.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\230.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\surprise\\219.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\223.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\225.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\205.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\219.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\224.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\220.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\207.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\sad\\224.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\211.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\240.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\213.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\239.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\211.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\218.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\241.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\204.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\228.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\neutral\\241.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\209.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\243.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\214.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\wangzhe\\surprise\\235.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\228.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\245.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\201.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\fear\\231.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\217.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\sad\\242.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\neutral\\232.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\230.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\angry\\225.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\223.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\【男童音】开心-太棒了_爱给网_aigei_com.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\239.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\222.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\245.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\wangzhe\\sad\\239.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\surprise\\204.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\fear\\232.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\wangzhe\\happy\\244.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\sad\\227.wav",
+      "label": "sad",
+      "label_id": 4
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\239.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\232.wav",
+      "label": "fear",
+      "label_id": 1
+    },
+    {
+      "path": "CASIA database\\ZhaoZuoxiang\\happy\\248.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\neutral\\213.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\surprise\\201.wav",
+      "label": "surprise",
+      "label_id": 5
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\neutral\\221.wav",
+      "label": "neutral",
+      "label_id": 3
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\happy\\211.wav",
+      "label": "happy",
+      "label_id": 2
+    },
+    {
+      "path": "CASIA database\\wangzhe\\angry\\203.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\liuchanhg\\angry\\236.wav",
+      "label": "angry",
+      "label_id": 0
+    },
+    {
+      "path": "CASIA database\\zhaoquanyin\\fear\\225.wav",
+      "label": "fear",
+      "label_id": 1
+    }
+  ]
+}

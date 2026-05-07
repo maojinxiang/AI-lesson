@@ -1,0 +1,2683 @@
+{
+  "train": [
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12a01Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a04Ta.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a07Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b03Lc.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b10Ld.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a04Tb.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a04Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a01Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a02La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b01Ld.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b03Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10b03La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a02Ta.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b02Fb.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b02Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a01Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b03Ta.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a01Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a04Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b09Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b03Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a07Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12b09Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b02La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a01Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a04Ff.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a07Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a07Tb.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a07Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a02Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b01Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a04Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b02Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a02Lc.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b01Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b02Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b10Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b02Fb.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b10Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a02Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10b02Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a07Lc.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a07Fa.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b02Tc.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10b10Fc.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b01Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a01Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b03Tc.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b01Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b09La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a02Ab.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b01Lc.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a01Fc.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b03Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10b01Ea.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a04Lc.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b09Td.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a05Ta.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a01Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b03Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12a07La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a07Ta.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b01Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a04Tb.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a04Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a05Fe.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a05Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a05Fb.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a02Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a05Tc.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a07Ta.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a05Ab.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a02Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b01Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a07Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a05Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12b09Td.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b02Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a02Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a02Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a04Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b01Eb.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a02Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b02Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a04Ab.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12a01Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a07Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a02La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b03Fa.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a05Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a07Tc.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a02Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b10Nd.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a05Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b10Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12a02Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b01Ea.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a05Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10b02Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b03Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b01Eb.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b03Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a01Ec.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b09Fc.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a02Tb.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a01Fa.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a02Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12a05Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b09Td.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a01Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a07Fa.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a05Ld.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b01Fa.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b02Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b01La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b02Wd.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10b10Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b09Ea.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a02Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a07Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a05Tc.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b02Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a07Eb.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b09Fc.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a04Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a02Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b10Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12b03La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b09Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b01Eb.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12b02Ea.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b01Fa.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b10Td.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12a01Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b02Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b10Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b01Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a04Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a01Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b03Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a02Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a05Fb.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b01Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b09Tc.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b09Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a05Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b03Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a05Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b10Eb.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a04La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b02Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a07Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12b10Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a05Tc.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b02Wd.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a07Ld.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b03Lc.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b09Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b02Tb.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12b02Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b09Fb.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a04Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a01Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a04Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b01Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b10Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12a07Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b01Fc.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12a02Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b09Ea.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a07Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b02Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b01Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a07Tc.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a07Wd.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a05Fc.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b10Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b09Ld.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b01Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b02Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a02Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a04Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b02Nd.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a05Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b01Wd.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a05Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b09Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b03Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a07Fa.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a01Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a01Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a02Ab.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a01Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a02Ea.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b03Ad.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a01Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a01Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a04Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a02Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a05Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a05Lc.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a02Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b10Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a05Fa.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a05Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b09Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b01Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b03Fa.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12a07Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b03Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b01Fc.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a01Ea.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b01Fc.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a05Tb.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b01Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a07Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a01Ld.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a01Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a04Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a01Ea.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a04Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b10Eb.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a04Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b02Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b03La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b03Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b09Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a02Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a05Ea.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a02Fb.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a02La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a04Ta.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a01Fb.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b09Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b10Ec.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b09Fb.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b02Eb.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b10Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a02Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b02Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a04Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b03Td.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b09Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b10Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a05Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12b10Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a05Tb.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a01Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10b09Ad.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b01Fa.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b03Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b01Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a01La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a04Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a07Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b03Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b09La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b09Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10b02La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a02Tc.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a07La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b09Eb.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12a05Ab.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a07La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b10Tb.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b10Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a05Wd.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a01Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a02Fa.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a01Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10b03Tb.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a07Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a02Tb.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b01Tb.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a05Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10b01Fa.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a05Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a02Ec.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a05Ad.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a01Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12b03Ta.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a05Ed.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a07Fb.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a02Eb.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b01Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a01Ec.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b09Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a05Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b01Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a01Fa.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a05Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b09Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b01Ec.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a04Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a05Ea.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a04Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a04Fa.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b03Ta.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a04Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a02Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a01Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a04Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b03Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a04Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b01Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b02Tc.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a01Ea.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a05Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b02Tc.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12b02Ad.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b03Td.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b10Ad.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b01Ec.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b02Wd.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a05Lc.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b01Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b10Ae.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a02Ea.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a01Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a07Ld.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10b02Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b10Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b02La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a02Fe.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b01Ab.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b10Ab.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b10Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b02Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a05Ta.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b03Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a04Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a07Eb.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a05Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b03Ta.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b10Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b09Tb.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a04Nd.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a07Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b09Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a05Tb.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b02Tb.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b03Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10b09Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a02Ab.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a02Wd.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a04Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b03Fe.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a07Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a07Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a04Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b09Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a07Eb.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a05Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12a01Fb.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12b01Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b03Lc.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a05Lc.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b10La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a07Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12a04Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a05Fc.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10b10Lc.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a02Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b02Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b09Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a05Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a07Ea.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b03Ed.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a04Tc.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a07Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a02Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b09La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a02Ld.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b02Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    }
+  ],
+  "val": [
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b09Lc.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a05Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a02Ea.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b01Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12a02Ec.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12b02Wd.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b10Ec.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a01Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b02Lc.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b02Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b03Fc.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b10Fb.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a04Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b10Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b01Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b10Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a05Nd.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12b01Ta.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a07Fb.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a07Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a05Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a07Ta.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b09Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a07Td.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12a05Ta.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b02Td.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b09Ab.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b01Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b09Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a02Ea.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a01Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a02La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b09Fa.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b03Tc.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b10Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a05Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a05Lc.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a02Ad.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b10Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a02Ec.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12b10Ld.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a04La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a05Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b10Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b02Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a04Ab.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a05Td.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a04Fc.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12a02Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12a02Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b01Ab.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b10Td.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a01Ab.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a05Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b03Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b03Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10b01Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a02Ec.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b09Ta.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a02Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a01Lc.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b10Fa.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b10Lc.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a02Fc.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a02Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a04Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b09Nd.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a04Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12b02Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a01Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10b03Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a04Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a07Fb.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b03Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a07Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a04Ad.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b03Ea.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10b09Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a07Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a01Ab.wav",
+      "label": "happiness",
+      "label_id": 3
+    }
+  ],
+  "test": [
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10b01Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b02Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a07Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b02Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b01Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12b09Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b03Wd.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a07Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a07La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a07Ld.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b02Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a05La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b09Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b02Ab.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a02Fa.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b09La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b03Tc.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b09Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b01Td.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a02Ta.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a01Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a01Tb.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a02Tc.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b10La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b10Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b03Ed.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09a01Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b02Ff.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b10Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b02Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a05Fc.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b03Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03a01Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\03b10Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b03Ac.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a01Ea.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b01Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a02Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b01Fe.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b10Ad.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a01Aa.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b03Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11b09Ad.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a04Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12a05Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b03Ed.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12b02Fb.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a04Tc.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a01Nd.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b10Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b09Ec.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a05Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a07Fd.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14a04Ed.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13a02Ta.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a02Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b10Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15a05Eb.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12a05Nd.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b09Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a07La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b03Wc.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\12b02Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b10Nc.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b01Na.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08a07Ta.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b10Tc.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\08b09Ab.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\14b10Tc.wav",
+      "label": "surprise",
+      "label_id": 6
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a04Ea.wav",
+      "label": "fear",
+      "label_id": 2
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a07Nb.wav",
+      "label": "neutral",
+      "label_id": 4
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\09b03Lb.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\10a07Ad.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\13b09Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\15b10Wa.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b09Ab.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a04La.wav",
+      "label": "disgust",
+      "label_id": 1
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16b03Ad.wav",
+      "label": "happiness",
+      "label_id": 3
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a04Wb.wav",
+      "label": "anger",
+      "label_id": 0
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\11a05Fb.wav",
+      "label": "sadness",
+      "label_id": 5
+    },
+    {
+      "path": "EmoDB Dataset_wav_datasets\\16a04Lc.wav",
+      "label": "disgust",
+      "label_id": 1
+    }
+  ]
+}
