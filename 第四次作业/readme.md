@@ -86,11 +86,11 @@ Non-trainable params: 0 (0.00 Byte)
 
 data_visualization:
 
-![data_visualization](G:\Github开源作业\人工智能\第四次作业\fig\data_visualization.png)
+![alt text](fig/data_visualization.png)
 
 
 
 predict vs actual:
 
-![predict_actual](G:\Github开源作业\人工智能\第四次作业\fig\predict_actual.png)
+![alt text](fig/predict_actual.png)
 
